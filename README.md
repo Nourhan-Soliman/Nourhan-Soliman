@@ -1,11 +1,11 @@
 
 
 <h3 align="center">
-  Hello! Welcome to Nourhan Soliman's profile!
+  Hello!  Welcome to Nourhan Soliman's profile!
 </h3>
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47g5z31mn3ozmow2g4qrgulyu1g2aypji1ybfrsqbx&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="380" height="280">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
