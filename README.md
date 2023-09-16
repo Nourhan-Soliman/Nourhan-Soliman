@@ -32,5 +32,3 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### I’m currently learning 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
